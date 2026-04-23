@@ -32,7 +32,7 @@ When you trigger a trade, the fee is added to your stake.
 * Platform Fee (1%): $0.10
 * Total deducted from wallet: $10.10
 
-> ⚠️ Important: Your wallet balance must cover the Trade Amount + 1% Fee. If you have exactly $1.00 in your wallet and try to place a $1.00 bet, the transaction will fail. Always keep a small "buffer" for fees.
+> ⚠️ Important: Your wallet balance must cover the Trade Amount + 1% Fee. If you have exactly $1.00 in your wallet and try to place a $1.00 prediction, the transaction will fail. Always keep a small "buffer" for fees.
 
 ***
 

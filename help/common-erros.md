@@ -9,7 +9,7 @@ icon: message-exclamation
 #### "Insufficient balance"
 
 * The Cause: Your USDC.e balance is lower than your Preset trade amount + 1% fee.
-* The Fix: Top up via the Profile tab. Remember: a $10 bet requires $10.10 in your wallet.
+* The Fix: Top up via the Profile tab. Remember: a $10 prediction requires $10.10 in your wallet.
 
 #### "Fill-or-Kill order could not be filled"
 

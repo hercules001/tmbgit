@@ -13,7 +13,7 @@ Tap the gear icon ⚙️ on the sidebar which is accessed by clicking profile im
 
 ***
 
-### Preset Bet Size
+### Preset Trade Amount
 
 This is your "Default Stake." Every time you trigger a trade, this is the amount TMB uses to calculate your potential payout.
 
@@ -33,4 +33,3 @@ Customize how the app "feels" during the Action Trigger:
 | ------- | ------------------------------------------------------------ |
 | Sounds  | Audio cues for trade confirmations and app interactions.     |
 | Haptics | Tactile vibration pulses that build as you hold the trigger. |
-

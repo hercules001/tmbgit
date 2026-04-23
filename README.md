@@ -41,7 +41,7 @@ We’ve abstracted the "crypto" out of the experience so you can focus on the "m
 * Hold to Trade: Every trade is a single, tactile gesture. No messy "Confirm" pop-ups. Just press and hold to lock in your position.
 * Embedded Wallets: Powered by Privy. No seed phrases or browser extensions-your wallet is created instantly when you log in via Google or X.
 * Smart Accounts (Safe): We use proxy wallets to handle the heavy lifting. You don’t need to manually approve every trade or worry about holding MATIC for gas.
-* Preset Frictionless Bets: Set your default bet size once and trade in milliseconds.
+* Preset Frictionless Predictions: Set your default trade amount once and trade in milliseconds.
 * Real-time Data:Live price charts, sports scores, and market updates are streamed directly to your device.
 
 ***

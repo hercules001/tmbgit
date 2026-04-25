@@ -28,11 +28,11 @@ TMB charges a flat 1% fee on the stake of every buy order. This fee covers the h
 
 When you trigger a trade, the fee is added to your stake.
 
-* Your Preset Bet: $10.00
+* Your Preset trade amount: $10.00
 * Platform Fee (1%): $0.10
 * Total deducted from wallet: $10.10
 
-> ⚠️ Important: Your wallet balance must cover the Bet Amount + 1% Fee. If you have exactly $1.00 in your wallet and try to place a $1.00 bet, the transaction will fail. Always keep a small "buffer" for fees.
+> ⚠️ Important: Your wallet balance must cover the Trade Amount + 1% Fee. If you have exactly $1.00 in your wallet and try to place a $1.00 prediction, the transaction will fail. Always keep a small "buffer" for fees.
 
 ***
 

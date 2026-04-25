@@ -13,8 +13,8 @@ icon: rocket-launch
 Before you make your move, ensure you’ve checked these boxes:
 
 * ✅ Account Created: Logged in via Email, Google, or X.
-* ✅  Wallet Funded: You have a USDC.e balance ([Guide](../wallet-and-funds/deposits-and-withdrawals.md)).
-* ✅  Safe Setup: You’ve tapped "Continue" on the one-time wallet activation modal.
+* ✅ Wallet Funded: You have a USDC.e balance ([Guide](../wallet-and-funds/deposits-and-withdrawals.md)).
+* ✅ Safe Setup: You’ve tapped "Continue" on the one-time wallet activation modal.
 
 ***
 
@@ -39,16 +39,16 @@ TMB does the math for you. You don't need to calculate "share prices"-you just n
 
 <div align="center" data-full-width="true"><figure><img src="../.gitbook/assets/IMG_1816 (1).jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-At the top of your screen, you’ll see your Preset Bet (e.g., ⚡ $1). This is your default stake. You can change this in your Settings or by tapping the icon.
+At the top of your screen, you’ll see your Preset trade amount (e.g., ⚡ $1). This is your default stake. You can change this in your Settings or by tapping the icon.
 
 #### Understanding the Action Block
 
 Inside every Action Block (the YES/NO or Team buttons), you will see two numbers:
 
-1. The Potential Payout (e.g., $1.60): This is the total amount you receive if you win. It is calculated as: `(Preset Bet / Implied Probability)`.
+1. The Potential Payout (e.g., $1.60): This is the total amount you receive if you win. It is calculated as: `(Preset trade amount / Implied Probability)`.
 2. The Odds (e.g., 63%): This is the market’s collective belief in that outcome.
 
-> The TMB Math: If you have a $1 Preset and the odds are 63%, TMB buys the exact number of shares needed so that your win results in a $1.60 payout. If the odds are "Long Shots" (e.g., 10%), a $1 bet might show a $10.00 payout!
+> The TMB Math: If you have a $1 Preset and the odds are 63%, TMB buys the exact number of shares needed so that your win results in a $1.60 payout. If the odds are "Long Shots" (e.g., 10%), a $1 trade might show a $10.00 payout!
 
 <figure><img src="../.gitbook/assets/IMG_1816.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -81,9 +81,8 @@ Once the market settles:
 
 1. Head to your Profile tab.
 2. Check the Redeem section.
-3. If you won, tap Redeem to sweep your winnings directly into your Safe wallet
+3. If you won, tap Redeem to sweep your winnings directly into your Safe wallet.
 
 
 
 💡 Pro-Tip: Having connectivity issues? If you are unable to place a trade or the interface feels laggy, switch your connection region and try again by refreshing the app.
-

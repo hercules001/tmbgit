@@ -12,7 +12,7 @@ icon: user-magnifying-glass
 The header provides an immediate snapshot of your account health:
 
 * Balance: Your tradable USDC.e. Tap Add Funds to top up instantly.
-* Win Rate & Predictions: High-level stats showing your accuracy and total activity.
+* Win Rate & Bets: High-level stats showing your accuracy and total activity.
 * P\&L: Your cumulative realized profit or loss.
 
 ***

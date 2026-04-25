@@ -8,13 +8,13 @@ icon: message-exclamation
 
 #### "Insufficient balance"
 
-* The Cause: Your USDC.e balance is lower than your Preset trade amount + 1% fee.
-* The Fix: Top up via the Profile tab. Remember: a $10 prediction requires $10.10 in your wallet.
+* The Cause: Your USDC.e balance is lower than your Preset Bet + 1% fee.
+* The Fix: Top up via the Profile tab. Remember: a $10 bet requires $10.10 in your wallet.
 
 #### "Fill-or-Kill order could not be filled"
 
-* The Cause: The market moved too fast or liquidity is too thin for your trade size.
-* The Fix: Try again immediately. If it keeps failing, try a slightly smaller trade amount or a more active market.
+* The Cause: The market moved too fast or liquidity is too thin for your bet size.
+* The Fix: Try again immediately. If it keeps failing, try a slightly smaller bet or a more active market.
 
 #### "Trading session expired"
 
@@ -33,7 +33,7 @@ icon: message-exclamation
 #### "Invalid address" (Withdrawals)
 
 * The Cause: The 0x address you entered is incorrect or formatted wrong.
-* The Fix: Double-check the 42-character address. Note: TMB does not support ENS names (like name.eth) yet-use the full 0x address.
+* The Fix: Double-check the 42-character address. Note: TMB does not support ENS names (like name.eth) yet—use the full 0x address.
 
 ***
 
@@ -57,6 +57,8 @@ icon: message-exclamation
 
 * The Cause: Your browser is blocking TMB from sending you win alerts.
 * The Fix: Enable notifications in your browser settings. On iOS, you must add TMB to your Home Screen (PWA) to receive alerts.
+
+💡 Pro-Tip: Having connectivity issues? If you are unable to connect to the app, get stuck in the authentication phase, or the interface feels laggy, switch your connection region and try again by refreshing the app.
 
 ***
 

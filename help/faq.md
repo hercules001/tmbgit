@@ -35,6 +35,21 @@ Yes. TMB is a Progressive Web App (PWA).
 
 ***
 
+### Technical & Troubleshooting
+
+<details>
+
+<summary>Why is the app stuck on the loading screen or feeling laggy?</summary>
+
+TMB relies on high-speed data feeds to keep your trades real-time. If you are stuck in the authentication phase or the interface feels slow:
+
+* Switch your connection region
+* Refresh the app or relaunch the PWA
+
+</details>
+
+***
+
 ### Account & Wallet
 
 <details>
@@ -67,9 +82,9 @@ The first time you trade, you’ll be prompted to "Activate" your account. This 
 
 <details>
 
-<summary>How can I get started with my first prediction?</summary>
+<summary>How do I place a bet?</summary>
 
-Select a market and press and hold the Action Block (YES/NO or Team Name). A progress bar will fill-once it hits the top and you feel the haptic "thump," your prediction is live.
+Select a market and press and hold the Action Block (YES/NO or Team Name). A progress bar will fill—once it hits the top and you feel the haptic "thump," your trade is live.
 
 </details>
 
@@ -77,7 +92,7 @@ Select a market and press and hold the Action Block (YES/NO or Team Name). A pro
 
 <summary>How is my payout calculated?</summary>
 
-TMB does the math for you. The number you see in the Action Block is your Potential Payout based on your Preset trade amount.
+TMB does the math for you. The number you see in the Action Block is your Potential Payout based on your Preset Bet.
 
 * Exampl&#x65;_:_ If your preset is $1 and the odds are 50%, the block will show a \*\*$2.00\*\* payout.
 

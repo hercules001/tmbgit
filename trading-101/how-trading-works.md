@@ -17,7 +17,7 @@ The core logic is simple:
 * Winning Shares are worth exactly $1.00.
 * Losing Shares are worth exactly $0.00.
 
-Because everyone knows a winning share will be worth $1.00 eventually, the current price represents the market’s collective positioning on the probability of that event happening.
+Because everyone knows a winning share will be worth $1.00 eventually, the current price represents the market’s collective "bet" on the probability of that event happening.
 
 ***
 
@@ -25,9 +25,9 @@ Because everyone knows a winning share will be worth $1.00 eventually, the curre
 
 #### 1. Shares Calculation
 
-TMB abstracts the "share" math so you can focus on the payout. However, behind the scenes, your Preset trade amount determines how many tokens you buy:
+TMB abstracts the "share" math so you can focus on the payout. However, behind the scenes, your Preset Bet determines how many tokens you buy:
 
-\$$shares = \frac{trade amountt\\\_amount}{share\\\_price}\$$
+\$$shares = \frac{bet\\\_amount}{share\\\_price}\$$
 
 Example: You have a $10 Preset and you hold YES at a price of $0.62.
 
@@ -37,11 +37,11 @@ Example: You have a $10 Preset and you hold YES at a price of $0.62.
 
 The price of a share is the Market Odds. The lower the odds, the higher the payout (and the higher the risk).
 
-| Market Odds (Price) | Implied Probability  | Payout per $1 trade |
-| ------------------- | -------------------- | ------------------- |
-| \*\*$0.10\*\*       | 10% (Long Shot)      | $10.00              |
-| $0.50               | 50% (Coin Flip)      | $2.00               |
-| $0.90               | 90% (Near Certainty) | $1.11               |
+| Market Odds (Price) | TextImplied Probability | TextPayout per $1 Bet |
+| ------------------- | ----------------------- | --------------------- |
+| \*\*$0.10\*\*       | 10% (Long Shot)         | $10.00                |
+| $0.50               | 50% (Coin Flip)         | $2.00                 |
+| $0.90               | 90% (Near Certainty)    | $1.11                 |
 
 ***
 

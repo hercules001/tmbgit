@@ -43,8 +43,13 @@ Yes. TMB is a Progressive Web App (PWA).
 
 TMB relies on high-speed data feeds to keep your trades real-time. If you are stuck in the authentication phase or the interface feels slow:
 
-* Switch your connection region
+* Switch your connection region: Toggle your VPN or switch between WiFi and cellular data.
 * Refresh the app or relaunch the PWA
+* Still facing issues? Reach out to us on [Telegram](https://t.me/tmbfun) for direct support.
+
+
+
+
 
 </details>
 

@@ -65,3 +65,5 @@ icon: message-exclamation
 ### 💡 Still Stuck?
 
 If these fixes don't get you back in the green, try a quick Log Out and Log In. This re-syncs your session and fixes 99% of persistent issues.
+
+If the issue continues, reach out to us on [Telegram](https://t.me/tmbfun) for direct support.

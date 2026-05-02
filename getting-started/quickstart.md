@@ -7,14 +7,33 @@ icon: play
 
 # Quickstart
 
+
+
 {% stepper %}
 {% step %}
 #### Launch the App
 
-Open the TMB app in your mobile browser. Since TMB is a Progressive Web App (PWA), we recommend adding it to your home screen for a native feel:
+Open the TMB app in your mobile browser. Since, TMB is a Progressive Web App (PWA). This means you get the speed and feel of a premium app from the App Store or Play Store, but you access it directly through your browser.
 
-* iOS Safari: Tap the Share icon > "Add to Home Screen"
-* Android Chrome: Tap the Three-dot menu > "Install App"
+<details>
+
+<summary>How to Install (30 Seconds) </summary>
+
+**For iPhone (Safari):**
+
+1. Open Safari and go to `app.tmb.fun`.
+2. Tap the Share icon (the square with an arrow at the bottom).
+3. Scroll down and tap Add to Home Screen.
+4. Tap Add in the top right corner.
+
+**For Android (Chrome):**
+
+1. Open Chrome and go to `app.tmb.fun`.
+2. Tap the three dots (top right).
+3. Tap Install App or Add to Home Screen.
+4. Follow the prompt to confirm.
+
+</details>
 {% endstep %}
 
 {% step %}
@@ -32,9 +51,9 @@ The first time you go to trade, you’ll see a one-time setup modal. Simply tap 
 {% step %}
 #### Fund The Wallet
 
-To trade, you’ll need USDC. You can deposit directly or bridge funds from Polygon, Base, or Arbitrum.
+To trade, you’ll need USDC. You can deposit directly or bridge funds from Polygon, Base, BNB and other supported networks.
 
-> See [Deposits & Withdrawls ](../wallet-and-funds/deposits-and-withdrawals.md)for a step-by-step on moving assets.
+> See [Deposits & Withdrawals](../wallet-and-funds/deposits-and-withdrawals.md) for a step-by-step on moving assets.
 {% endstep %}
 
 {% step %}

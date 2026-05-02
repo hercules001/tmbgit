@@ -12,12 +12,40 @@ icon: coin-vertical
 
 {% tabs %}
 {% tab title="Deposits" %}
-We support the most popular L2s to ensure you can fund your account from wherever you keep your liquidity.
+TMB gives you two ways to power your wallet. Whether you already have crypto or want to use your credit card, we’ve made the process seamless.
 
-1. Navigate to the Profile tab or click the plus icon on header on home page.
+#### 1. Deposit with Google Pay / Apple Pay (MoonPay)
+
+Perfect for those who don't own crypto or want a frictionless top-up using their credit card.
+
+* How it works: We’ve integrated MoonPay to bridge the gap between your bank and the blockchain.
+* Credit Card Bonus: Use your favorite credit card via MoonPay to rack up your standard card rewards, points, or cashback on your deposit.
+* Speed: Near-instant delivery once the payment is approved.
+
+#### The Steps:
+
+1. Navigate to the Profile tab and tap Add Funds.
+2. Select the Google Pay / Apple Pay option.
+3. Enter the amount you wish to deposit.
+4. Verify your identity (first-time users only) and confirm your purchase.
+5. Delivery: Your USDC.e will appear in your TMB balance automatically.
+
+***
+
+#### 2. Deposit with Crypto (On-Chain)
+
+If you already have USDC in another wallet (like MetaMask, Coinbase Wallet, or Phantom), you can move it to TMB directly.
+
+* Supported Networks: Polygon (Direct), Base, and Arbitrum.
+* The Bridge Experience: Sending from Base or Arbitrum? Don't sweat the technicals. TMB's integrated Relay Bridge automatically converts your funds into USDC.e on Polygon so they are ready for immediate trading.
+* Speed: Polygon is near-instant; Base and Arbitrum typically take 1–5 minutes.
+
+#### The Steps:
+
+1. Tap the Plus (+) icon on the Home screen header or go to the Profile tab.
 2. Tap Deposit.
-3. Select your source chain (Polygon, Base, or Arbitrum).
-4. Enter the amount and confirm the transaction.
+3. Select your Source Chain (where your funds are currently sitting).
+4. Enter the amount and confirm the transaction in your external wallet.
 
 > The Bridge Experience: If you're depositing from Base or Arbitrum, our integrated Relay bridge automatically converts your funds into the correct format on Polygon. This usually takes few minutes. If you're on Polygon, it’s near-instant.
 
